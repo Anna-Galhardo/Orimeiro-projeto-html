@@ -13,11 +13,12 @@
 * Clique em Create repository;
 
 2. Envie seus arquivos para o repositório
-* git init
-* git add .
-* git commit -m " Meu site "
-* git push
-
+```   
+   git init
+   git add .
+   git commit -m " Meu site "
+   git push
+```
 3. Ative o GitHub Pages
 * Vá até o seu repositório no GitHub
 * Clique em Settings (⚙️)
